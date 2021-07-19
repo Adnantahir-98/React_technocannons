@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <img src="src/home_technocannons.png" />
 
-
+<br />
 
 ![](src/about_technocannons.png)
 
