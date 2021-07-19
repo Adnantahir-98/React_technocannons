@@ -2,13 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#Project Screenshot
 
+#Project Screenshot
+Home Page
 <img src="src/home_technocannons.png" />
 
 <br />
+<br />
 
+About Page
 ![](src/about_technocannons.png)
+
 
 ## Available Scripts
 
